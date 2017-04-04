@@ -4,9 +4,6 @@ session_start();
 <!DOCTYPE html>
 <html ng-app="GeraMetodos">
 <!-- 
-Você quer criar seu projeto PHP sem usar frameworks, por que está estudante a linguagem
-ou simplesmente por opção.<br> Mas quer evitar a parte de ter que criar todos os getters e setters
-manualmente, ja que leva tempo e é cansativo.
 -->
 <head>
 	<meta charset="utf-8">
