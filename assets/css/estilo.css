@@ -1,0 +1,35 @@
+.form-control{
+	background-color: #fff;
+}
+
+input[type="text"]{
+	font-family: 'Roboto';
+	
+}
+
+#addAtrib{
+	width: 100%;
+}
+
+#alterarClasse{
+	width: 100%;
+	height: 50px;
+}
+
+#panelGuest{
+    border-right:solid #ff920a 2px;
+    min-height:100px;
+    height: auto;
+    overflow: auto;
+    background-color: #fff;
+}
+
+#gerador{
+	background-color: white;
+
+}
+
+#show{
+	background-color: white;
+
+}
