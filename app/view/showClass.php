@@ -29,8 +29,6 @@ session_start();
   <div class="container">
     <ul class="nav navbar-nav">
     	<li><a href="/generate_model/index.php">Home</a></li>
-    	<li><a href="#">Forkme in GitHub</a></li>
-    	<li><a href="#">PHP Official Documentation</a></li>
     </ul>
   </div>
 </nav>

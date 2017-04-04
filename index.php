@@ -52,8 +52,6 @@ session_start();
   <div class="container">
     <ul class="nav navbar-nav">
     	<li><a href="index.php">Home</a></li>
-    	<li><a href="#">Forkme in GitHub</a></li>
-    	<li><a href="#">PHP Official Documentation</a></li>
     </ul>
   </div>
 </nav>
@@ -164,15 +162,7 @@ session_start();
 
 </div> <!-- CONTAINER-->
 <br><br><br><br><br>
-	<div class="col-md-12">
-		Development by <strong>Rafael Ramos</strong> - 2016 <a href="#"><strong>My GitHub</strong></a>
-
-		<P>
-		Referencies: 
-		<a href="#">Bootstrap</a>
-		<a href="#">Javascript</a>
-		<a href="#">AngularJs</a>
-	</div>
+	
 
 	<!--<script src="http://code.angularjs.org/1.0.1/angular-1.0.1.min.js"></script>-->
 
